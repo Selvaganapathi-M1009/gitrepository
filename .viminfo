@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1727590931,,"wq"
+|2,0,1727591379,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,20 +25,26 @@
 # Registers:
 
 # File marks:
-'0  2  25  ~/test.py
-|4,48,2,25,1727590931,"~/test.py"
+'0  2  23  ~/test.py
+|4,48,2,23,1727591379,"~/test.py"
+'1  2  25  ~/test.py
+|4,49,2,25,1727590931,"~/test.py"
 
 # Jumplist (newest first):
+-'  2  23  ~/test.py
+|4,39,2,23,1727591379,"~/test.py"
 -'  2  25  ~/test.py
 |4,39,2,25,1727590931,"~/test.py"
+-'  1  0  ~/test.py
+|4,39,1,0,1727590875,"~/test.py"
 -'  1  0  ~/test.py
 |4,39,1,0,1727590875,"~/test.py"
 
 # History of marks within files (newest to oldest):
 
 > ~/test.py
-	*	1727590928	0
-	"	2	25
-	^	2	26
-	.	2	25
-	+	2	25
+	*	1727591375	0
+	"	2	23
+	^	2	24
+	.	2	23
+	+	2	23
